@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npt intall javascript```
+
+sistema de registro 2
